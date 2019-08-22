@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.criscao.github.io" resolutions="1x" timestamp="1566113579349">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.criscao.github.io" resolutions="1x" timestamp="1566453824681">
   <folder name="css">
     <file name="site_global.css" crc="31654291"/>
-    <file name="index.css" crc="4110477786" ref="index"/>
-    <file name="nomq_index.css" crc="4114629854" ref="index"/>
+    <file name="index.css" crc="384414379" ref="index"/>
+    <file name="nomq_index.css" crc="419648117" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="centurygothicbold.woff" crc="402072844"/>
@@ -414,7 +414,7 @@
     <file name="llama-crop-u81782.jpg" crc="188967799" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="43984410_1990625384569075_55226503282659774_n-crop-u8174.jpg" crc="384274467" seo="true" ref="index">
+    <file name="43984410_1990625384569075_55226503282659774_n-crop-u8174.jpg" crc="417300327" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="cara-crop-u8176.jpg" crc="4194417718" seo="true" ref="index">
@@ -508,7 +508,7 @@
     <file name="llama-crop-u81783.jpg" crc="320228122" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="43984410_1990625384569075_55226503282659774_n-crop-u81742.jpg" crc="3846364273" seo="true" ref="index">
+    <file name="43984410_1990625384569075_55226503282659774_n-crop-u81742.jpg" crc="38817683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="cara-crop-u81762.jpg" crc="191988966" seo="true" ref="index">
@@ -540,5 +540,5 @@
     </file>
     <file name="u304-44.png" crc="168543787" ref="index"/>
   </folder>
-  <file name="index.html" crc="3896463705" seo="true" mt="1566111943435" redirect="true"/>
+  <file name="index.html" crc="4086071286" seo="true" mt="1566453769104" redirect="true"/>
 </manifest>
